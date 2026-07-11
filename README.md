@@ -35,3 +35,10 @@ This project contains SQL queries to solve business problems using the Netflix d
 ## Tools
 
 - MySQL Workbench
+
+
+## 📄 Project Report
+
+A detailed PDF report containing all 15 SQL business problems and their solutions is included in this repository.
+
+**Report:** [Netflix_SQL_Project_Report.pdf](./Netflix_SQL_Project_Report.pdf)
